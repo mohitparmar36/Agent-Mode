@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\LogParking.Api\LogParking.Api.csproj" />
+    <ProjectReference Include="..\LogParking.Infrastructure\LogParking.Infrastructure.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
