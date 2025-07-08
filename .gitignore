@@ -1,0 +1,42 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# User-specific files
+*.swp
+*.bak
+*.tmp
+
+# Build results
+[Ll]ogParking.Api/bin/
+[Ll]ogParking.Api/obj/
+[Ll]ogParking.AppService/bin/
+[Ll]ogParking.AppService/obj/
+[Ll]ogParking.Infrastructure/bin/
+[Ll]ogParking.Infrastructure/obj/
+[Ll]ogParking.Utility/bin/
+[Ll]ogParking.Utility/obj/
+
+# Others
+*.vspscc
+*.vssscc
+_ReSharper*/
+.idea/
+*.ncrunch*
+*.localhistory/
+*.sln.ide
